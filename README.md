@@ -26,7 +26,9 @@ The goal is to extract actionable insights that can help in strategic decision-m
 - Pandas  
 - NumPy  
 - Matplotlib  
-- Seaborn  
+- Seaborn
+
+--- 
 
 ## 📊 Key Insights from EDA
 - 📅 **Seasonality in Sales**: Certain months showed significantly higher sales volumes.
