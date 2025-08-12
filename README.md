@@ -16,13 +16,17 @@ The goal is to extract actionable insights that can help in strategic decision-m
 ---
 
 ## 🛠 Tools & Libraries Used
-- **Python** 🐍
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+**Programming Language**  
+- Python 🐍  
 
----
+**Development Environment**  
+- Jupyter Notebook (Google Colab)  
+
+**Libraries**  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
 
 ## 📊 Key Insights from EDA
 - 📅 **Seasonality in Sales**: Certain months showed significantly higher sales volumes.
@@ -36,17 +40,8 @@ The goal is to extract actionable insights that can help in strategic decision-m
 
 ⭐ If you like this project, consider giving it a star on GitHub!
 
-yaml
-Copy
-Edit
 
 ---
 
-### ✅ What You Need to Do:
-1. Replace:
-   - `YOUR_USERNAME` → Your GitHub username  
-   - `PUT_KAGGLE_LINK_HERE` → The exact Kaggle dataset link you used  
-   - `Your Name` and your LinkedIn/email  
-2. Save this as `README.md` in your repo root folder.  
-3. Commit & push it to GitHub.
+
 
